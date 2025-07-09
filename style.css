@@ -393,7 +393,7 @@ footer {
     padding: 10px 0;
 }
 .footer-column *:hover {
-    color: #bd460fd1;
+    color: #eb5757d1;
     transition: all 0.3s ease;
     opacity: .8;
 }
